@@ -1,0 +1,8 @@
+  {
+    "DOPercentageDownloadThrottle":90,
+    "DOCacheHostSource":3,
+    "DOCacheHost":"172.17.0.1",
+    "DOCacheHostFallback":123,
+    "DODelayCacheServerFallbackBackground":60,
+    "DODelayCacheServerFallbackForeground":30
+  }
